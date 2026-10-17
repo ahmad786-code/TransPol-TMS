@@ -1,0 +1,8 @@
+{
+  "name": "TransPol TMS - System Zarządzania Transportem",
+  "description": "Nowoczesny system TMS dla firm transportowych. Zarządzanie flotą, dyspozycja kierowców, śledzenie dostaw, kontrola paliwa i kosztów operacyjnych.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
